@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_58872_needit_u_string_1" label="TIGIR Regions" language="en" table="sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_58872_needit_u_string_1</element>
+            <help/>
+            <hint/>
+            <label>TIGIR Regions</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <plural>TIGIR Regions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-31 13:00:50</sys_created_on>
+            <sys_id>fdb6cb74db313300062353184b961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TIGIR Regions</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_sys_user_x_58872_needit_u_string_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-31 13:00:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
