@@ -44,7 +44,7 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
         <field_list>number,opened_at,short_description,caller_id,priority,state,category,assignment_group,assigned_to,sys_updated_on,sys_updated_by</field_list>
-        <filter table="cmdb_ci">operational_statusNOT IN2,6^change_controlDYNAMICd6435e965f510100a9ad2572f2b47744^ORchange_controlISEMPTY^RLQUERYincident.cmdb_ci,&gt;=5^active=true^ENDRLQUERY<item endquery="false" field="operational_status" goto="false" newquery="false" operator="NOT IN" or="false" value="2,6"/>
+        <filter table="cmdb_ci">operational_statusNOT IN2,6^change_controlDYNAMICd6435e965f510100a9ad2572f2b47744^ORchange_controlISEMPTY^RLQUERYincident.cmdb_ci,&gt;=5^active=true^ENDRLQUERY<item display_value="2,6" endquery="false" field="operational_status" goto="false" newquery="false" operator="NOT IN" or="false" value="2,6"/>
             <item endquery="false" field="change_control" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/>
             <item endquery="false" field="change_control" goto="false" newquery="false" operator="ISEMPTY" or="true" value=""/>
         </filter>
